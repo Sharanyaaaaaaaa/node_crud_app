@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a1f5e7c0-9b84-4e10-950a-8b8b98e95b0d",
+    "title": "Inception",
+    "year": "2010",
+    "genre": "Action, Sci-Fi, Thriller",
+    "rating": "8.8"
+  },
+  {
+    "id": "b2c3d7f9-ea41-4c21-872e-5e4b58b0f183",
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "rating": "8.6"
+  },
+  {
+    "id": "c3d2f8e1-3e9f-4d72-a3de-9182f7ff47a2",
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": "Action, Crime, Drama",
+    "rating": "9.0"
+  },
+  {
+    "id": "d4a8f7b2-9e21-4f94-bda2-32d6b1a772fd",
+    "title": "Parasite",
+    "year": "2019",
+    "genre": "Drama, Thriller",
+    "rating": "8.6"
+  }
+]
